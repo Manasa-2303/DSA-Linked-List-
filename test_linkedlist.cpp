@@ -1,5 +1,5 @@
-#include "../include/LinkedList.h" //Header 
-#include <cassert>
+#include "../include/LinkedList.h"
+#include <cassert> 
 #include <iostream>
 
 void test_push_and_size() {
