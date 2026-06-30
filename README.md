@@ -1,6 +1,6 @@
 # cpp-datastructures
 
-Core data structures implemented from scratch in C++ to deepen understanding
+Core data structures implemented  to deepen understanding
 of memory management, pointers, and algorithmic fundamentals.
 
 ## Build & Run
