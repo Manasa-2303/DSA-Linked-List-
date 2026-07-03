@@ -6,10 +6,6 @@ of memory management, pointers, and algorithmic fundamentals
 ## Implemented so far
 - **LinkedList** — singly linked list with push front/back, remove, search, and in-place reverse
 
-## Planned
-- Stack (array/linked-list backed)
-- Queue (circular buffer)
-- Binary Search Tree (insert, search, inorder traversal)
 
 ## Build & Run
 
