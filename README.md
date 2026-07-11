@@ -6,7 +6,18 @@ of memory management, pointers, and algorithmic fundamentals
 ## Implemented so far
 - **LinkedList** — singly linked list with push front/back, remove, search, and in-place reverse
 
+## Build & Run
 
+```bash
+make run
+```
+
+or directly:
+
+```bash
+g++ -std=c++17 -Wall tests/test_linkedlist.cpp -o test_linkedlist
+./test_linkedlist
+```
 
 ## Structure
 
