@@ -19,7 +19,14 @@ g++ -std=c++17 -Wall tests/test_linkedlist.cpp -o test_linkedlist
 ./test_linkedlist
 ```
 
+## Structure
 
+```
+cpp-datastructures/
+├── include/        # Header-only implementations (templates)
+├── tests/          # Test drivers for each data structure
+└── Makefile
+```
 
 
 ## Why this project
