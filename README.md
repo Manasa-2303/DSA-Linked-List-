@@ -6,7 +6,7 @@ of memory management, pointers, and algorithmic fundamentals
 ## Implemented so far
 - **LinkedList** — singly linked list with push front/back, remove, search, and in-place reverse
 
-## Build & Run        
+## Build & Run         
 
 ```bash
 make run
@@ -27,6 +27,7 @@ cpp-datastructures/
 ├── tests/          # Test drivers for each data structure
 └── Makefile
 ```
+
 
 
 ## Why this project
